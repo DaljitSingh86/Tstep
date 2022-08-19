@@ -1,0 +1,189 @@
+ One 	 Two 	 Three 	 Six 	 Eighteen 	 Twenty Four 
+ One 	 Two 	 Three 	 Thirty Two 	 Forty Eight 	 Fifty 
+ One 	 Two 	 Four 	 Twenty 	 Thirty 	 Thirty Seven 
+ One 	 Two 	 Four 	 Twenty Seven 	 Forty 	 Forty Two 
+ One 	 Two 	 Five 	 Eleven 	 Seventeen 	 Thirty Nine 
+ One 	 Two 	 Five 	 Twenty Two 	 Forty Three 	 Fifty 
+ One 	 Two 	 Five 	 Twenty Nine 	 Thirty Five 	 Thirty Six 
+ One 	 Two 	 Five 	 Thirty Six 	 Thirty Eight 	 Forty Three 
+ One 	 Two 	 Six 	 Eight 	 Twenty 	 Fifty Three 
+ One 	 Two 	 Ten 	 Eleven 	 Thirty One 	 Fifty One 
+ One 	 Two 	 Thirteen 	 Twenty Three 	 Thirty Four 	 Forty 
+ One 	 Two 	 Thirteen 	 Thirty Seven 	 Forty Four 	 Forty Five 
+ One 	 Two 	 Sixteen 	 Twenty Seven 	 Thirty Six 	 Thirty Eight 
+ One 	 Two 	 Seventeen 	 Thirty Eight 	 Fifty One 	 Fifty Four 
+ One 	 Two 	 Nineteen 	 Thirty Nine 	 Forty Six 	 Fifty Three 
+ One 	 Two 	 Twenty Six 	 Forty One 	 Forty Two 	 Fifty Four 
+ One 	 Three 	 Six 	 Ten 	 Thirteen 	 Twenty 
+ One 	 Three 	 Nine 	 Twenty Two 	 Twenty Three 	 Fifty Four 
+ One 	 Three 	 Nine 	 Twenty Two 	 Twenty Four 	 Thirty 
+ One 	 Three 	 Nine 	 Thirty Five 	 Forty Two 	 Forty Five 
+ One 	 Three 	 Eleven 	 Fifteen 	 Sixteen 	 Fifty 
+ One 	 Three 	 Twelve 	 Twenty 	 Thirty Six 	 Forty Four 
+ One 	 Three 	 Thirteen 	 Fourteen 	 Twenty Two 	 Fifty Two 
+ One 	 Three 	 Sixteen 	 Twenty Two 	 Thirty One 	 Thirty Five 
+ One 	 Three 	 Twenty 	 Thirty 	 Thirty Seven 	 Thirty Eight 
+ One 	 Three 	 Twenty Four 	 Twenty Eight 	 Thirty One 	 Forty One 
+ One 	 Three 	 Twenty Six 	 Twenty Nine 	 Thirty One 	 Forty Five 
+ One 	 Three 	 Twenty Six 	 Thirty One 	 Thirty Eight 	 Fifty One 
+ One 	 Three 	 Twenty Six 	 Thirty Four 	 Thirty Six 	 Fifty Two 
+ One 	 Three 	 Thirty Two 	 Forty Three 	 Forty Eight 	 Fifty Three 
+ One 	 Four 	 Five 	 Eight 	 Twelve 	 Twenty Six 
+ One 	 Four 	 Five 	 Forty Three 	 Fifty Three 	 Fifty Four 
+ One 	 Four 	 Six 	 Seventeen 	 Thirty Four 	 Thirty Six 
+ One 	 Four 	 Six 	 Twenty Eight 	 Thirty Seven 	 Thirty Eight 
+ One 	 Four 	 Seven 	 Thirty Three 	 Thirty Five 	 Forty Two 
+ One 	 Four 	 Ten 	 Fourteen 	 Fifteen 	 Twenty Six 
+ One 	 Four 	 Ten 	 Forty 	 Forty Six 	 Forty Nine 
+ One 	 Four 	 Eleven 	 Sixteen 	 Twenty Two 	 Twenty Seven 
+ One 	 Four 	 Eleven 	 Eighteen 	 Twenty Four 	 Thirty Five 
+ One 	 Four 	 Twelve 	 Twenty Seven 	 Thirty Seven 	 Forty Eight 
+ One 	 Four 	 Thirteen 	 Sixteen 	 Twenty One 	 Twenty Eight 
+ One 	 Four 	 Thirteen 	 Thirty 	 Thirty Eight 	 Fifty Four 
+ One 	 Four 	 Fourteen 	 Eighteen 	 Twenty Five 	 Thirty Two 
+ One 	 Four 	 Twenty One 	 Thirty One 	 Thirty Six 	 Forty Four 
+ One 	 Four 	 Twenty Eight 	 Thirty Three 	 Forty Two 	 Forty Nine 
+ One 	 Four 	 Twenty Eight 	 Thirty Four 	 Thirty Five 	 Thirty Nine 
+ One 	 Four 	 Thirty One 	 Thirty Eight 	 Forty Three 	 Fifty 
+ One 	 Four 	 Thirty Four 	 Forty One 	 Forty Two 	 Fifty Three 
+ One 	 Four 	 Thirty Six 	 Thirty Eight 	 Thirty Nine 	 Fifty One 
+ One 	 Five 	 Seven 	 Sixteen 	 Thirty One 	 Thirty Two 
+ One 	 Five 	 Nine 	 Twenty Six 	 Twenty Nine 	 Forty Nine 
+ One 	 Five 	 Ten 	 Seventeen 	 Thirty Three 	 Thirty Five 
+ One 	 Five 	 Twelve 	 Fourteen 	 Nineteen 	 Twenty One 
+ One 	 Five 	 Thirteen 	 Twenty Three 	 Thirty Eight 	 Forty Six 
+ One 	 Five 	 Fourteen 	 Thirty Five 	 Thirty Seven 	 Forty Two 
+ One 	 Five 	 Sixteen 	 Nineteen 	 Twenty Seven 	 Forty Two 
+ One 	 Five 	 Eighteen 	 Twenty Eight 	 Forty Six 	 Forty Eight 
+ One 	 Five 	 Eighteen 	 Thirty Nine 	 Forty Five 	 Fifty Two 
+ One 	 Five 	 Twenty One 	 Thirty One 	 Forty Two 	 Forty Six 
+ One 	 Six 	 Eight 	 Eleven 	 Fifteen 	 Twenty Five 
+ One 	 Six 	 Eight 	 Eleven 	 Thirty Eight 	 Forty Three 
+ One 	 Six 	 Eight 	 Twenty Six 	 Thirty One 	 Fifty One 
+ One 	 Six 	 Ten 	 Sixteen 	 Nineteen 	 Thirty Six 
+ One 	 Six 	 Eleven 	 Twenty Four 	 Thirty One 	 Fifty 
+ One 	 Six 	 Thirteen 	 Sixteen 	 Forty Six 	 Forty Seven 
+ One 	 Six 	 Fourteen 	 Twenty Six 	 Thirty Three 	 Forty Two 
+ One 	 Six 	 Fourteen 	 Thirty 	 Thirty One 	 Fifty Two 
+ One 	 Six 	 Sixteen 	 Twenty Two 	 Forty Three 	 Fifty One 
+ One 	 Six 	 Nineteen 	 Twenty One 	 Twenty Seven 	 Forty Nine 
+ One 	 Six 	 Nineteen 	 Thirty Two 	 Thirty Four 	 Thirty Six 
+ One 	 Six 	 Nineteen 	 Thirty Nine 	 Forty 	 Fifty Three 
+ One 	 Six 	 Twenty Two 	 Thirty Six 	 Forty 	 Fifty Two 
+ One 	 Six 	 Twenty Three 	 Twenty Four 	 Forty Four 	 Fifty Three 
+ One 	 Six 	 Twenty Three 	 Thirty Six 	 Forty 	 Forty Eight 
+ One 	 Six 	 Thirty 	 Thirty Six 	 Forty Three 	 Forty Six 
+ One 	 Six 	 Thirty One 	 Forty Three 	 Forty Four 	 Fifty Three 
+ One 	 Seven 	 Nine 	 Twenty Five 	 Twenty Nine 	 Forty Two 
+ One 	 Seven 	 Ten 	 Twenty 	 Twenty Three 	 Fifty Four 
+ One 	 Seven 	 Ten 	 Thirty Seven 	 Forty Three 	 Forty Five 
+ One 	 Seven 	 Thirteen 	 Thirty Two 	 Forty Six 	 Fifty One 
+ One 	 Seven 	 Fifteen 	 Thirty Five 	 Forty Three 	 Fifty Three 
+ One 	 Seven 	 Sixteen 	 Seventeen 	 Twenty Three 	 Forty One 
+ One 	 Seven 	 Seventeen 	 Twenty Three 	 Thirty Four 	 Thirty Eight 
+ One 	 Seven 	 Twenty 	 Twenty One 	 Forty Seven 	 Fifty Two 
+ One 	 Seven 	 Twenty One 	 Twenty Eight 	 Thirty Four 	 Thirty Five 
+ One 	 Seven 	 Twenty Four 	 Twenty Seven 	 Thirty Five 	 Forty Four 
+ One 	 Seven 	 Twenty Six 	 Forty Three 	 Forty Six 	 Fifty One 
+ One 	 Seven 	 Twenty Seven 	 Forty Seven 	 Fifty Two 	 Fifty Three 
+ One 	 Seven 	 Thirty Two 	 Thirty Seven 	 Thirty Eight 	 Forty Five 
+ One 	 Eight 	 Ten 	 Twenty Six 	 Thirty Nine 	 Fifty 
+ One 	 Eight 	 Twelve 	 Twenty Two 	 Twenty Six 	 Thirty Seven 
+ One 	 Eight 	 Twelve 	 Twenty Three 	 Thirty 	 Thirty Eight 
+ One 	 Eight 	 Thirteen 	 Fourteen 	 Fifteen 	 Seventeen 
+ One 	 Eight 	 Thirteen 	 Eighteen 	 Thirty Four 	 Forty Five 
+ One 	 Eight 	 Fourteen 	 Eighteen 	 Nineteen 	 Forty One 
+ One 	 Eight 	 Fourteen 	 Twenty Two 	 Twenty Six 	 Thirty Four 
+ One 	 Eight 	 Fourteen 	 Thirty Two 	 Thirty Seven 	 Forty Six 
+ One 	 Eight 	 Fourteen 	 Thirty Five 	 Forty Three 	 Fifty 
+ One 	 Eight 	 Fifteen 	 Thirty Three 	 Forty Four 	 Fifty Four 
+ One 	 Eight 	 Sixteen 	 Twenty Three 	 Twenty Nine 	 Forty 
+ One 	 Eight 	 Sixteen 	 Thirty Nine 	 Forty One 	 Forty Seven 
+ One 	 Eight 	 Eighteen 	 Nineteen 	 Twenty Five 	 Forty Seven 
+ One 	 Eight 	 Nineteen 	 Twenty Nine 	 Thirty Six 	 Forty Five 
+ One 	 Eight 	 Twenty 	 Thirty Five 	 Fifty One 	 Fifty Two 
+ One 	 Eight 	 Twenty One 	 Twenty Three 	 Forty One 	 Forty Four 
+ One 	 Nine 	 Ten 	 Twenty Eight 	 Forty Seven 	 Forty Nine 
+ One 	 Nine 	 Eleven 	 Twenty One 	 Twenty Eight 	 Fifty Two 
+ One 	 Nine 	 Fourteen 	 Twenty Three 	 Twenty Nine 	 Forty One 
+ One 	 Nine 	 Fourteen 	 Twenty Six 	 Thirty Seven 	 Forty Six 
+ One 	 Nine 	 Seventeen 	 Twenty Three 	 Fifty Three 	 Fifty Four 
+ One 	 Nine 	 Twenty 	 Thirty Seven 	 Forty Six 	 Forty Seven 
+ One 	 Nine 	 Twenty Five 	 Thirty 	 Thirty Nine 	 Forty One 
+ One 	 Nine 	 Thirty Five 	 Thirty Six 	 Forty Nine 	 Fifty One 
+ One 	 Ten 	 Eleven 	 Thirty One 	 Thirty Eight 	 Forty Nine 
+ One 	 Ten 	 Twelve 	 Seventeen 	 Forty Two 	 Fifty Three 
+ One 	 Ten 	 Sixteen 	 Twenty One 	 Twenty Two 	 Forty Eight 
+ One 	 Ten 	 Seventeen 	 Twenty 	 Thirty 	 Forty One 
+ One 	 Ten 	 Eighteen 	 Twenty Eight 	 Thirty Eight 	 Forty Nine 
+ One 	 Ten 	 Twenty 	 Twenty One 	 Twenty Eight 	 Fifty 
+ One 	 Ten 	 Twenty 	 Thirty Five 	 Thirty Eight 	 Forty Six 
+ One 	 Eleven 	 Twelve 	 Eighteen 	 Twenty 	 Forty Seven 
+ One 	 Eleven 	 Fourteen 	 Eighteen 	 Thirty Two 	 Fifty Four 
+ One 	 Eleven 	 Seventeen 	 Twenty Two 	 Twenty Eight 	 Forty One 
+ One 	 Eleven 	 Seventeen 	 Thirty Two 	 Forty Four 	 Fifty Two 
+ One 	 Eleven 	 Twenty 	 Twenty Three 	 Thirty One 	 Thirty Six 
+ One 	 Eleven 	 Twenty One 	 Thirty Four 	 Thirty Six 	 Forty 
+ One 	 Eleven 	 Twenty Seven 	 Twenty Nine 	 Thirty Six 	 Fifty Three 
+ One 	 Eleven 	 Thirty Seven 	 Thirty Nine 	 Forty 	 Forty Eight 
+ One 	 Twelve 	 Thirteen 	 Twenty Seven 	 Thirty 	 Forty One 
+ One 	 Twelve 	 Thirteen 	 Thirty One 	 Thirty Two 	 Forty 
+ One 	 Twelve 	 Fourteen 	 Fifteen 	 Thirty Two 	 Forty One 
+ One 	 Twelve 	 Seventeen 	 Twenty 	 Twenty Seven 	 Thirty Four 
+ One 	 Twelve 	 Seventeen 	 Thirty One 	 Thirty Four 	 Forty 
+ One 	 Twelve 	 Seventeen 	 Thirty Seven 	 Forty Eight 	 Fifty 
+ One 	 Twelve 	 Eighteen 	 Twenty Nine 	 Thirty Four 	 Fifty Two 
+ One 	 Twelve 	 Twenty Two 	 Thirty One 	 Thirty Nine 	 Forty Six 
+ One 	 Twelve 	 Twenty Three 	 Twenty Five 	 Forty One 	 Forty Seven 
+ One 	 Twelve 	 Twenty Five 	 Thirty Six 	 Thirty Nine 	 Forty Five 
+ One 	 Twelve 	 Twenty Six 	 Twenty Eight 	 Forty Two 	 Forty Eight 
+ One 	 Twelve 	 Twenty Six 	 Thirty Two 	 Thirty Four 	 Fifty Four 
+ One 	 Twelve 	 Twenty Seven 	 Forty 	 Fifty 	 Fifty Two 
+ One 	 Twelve 	 Thirty Eight 	 Forty 	 Forty One 	 Forty Eight 
+ One 	 Thirteen 	 Sixteen 	 Thirty Two 	 Forty Nine 	 Fifty Two 
+ One 	 Thirteen 	 Eighteen 	 Twenty Two 	 Twenty Seven 	 Thirty Eight 
+ One 	 Thirteen 	 Nineteen 	 Twenty Three 	 Thirty Five 	 Forty Three 
+ One 	 Thirteen 	 Nineteen 	 Forty Four 	 Forty Six 	 Fifty Two 
+ One 	 Thirteen 	 Twenty 	 Twenty Five 	 Thirty Two 	 Forty Nine 
+ One 	 Thirteen 	 Thirty One 	 Thirty Four 	 Thirty Nine 	 Forty Eight 
+ One 	 Fourteen 	 Sixteen 	 Twenty Four 	 Thirty Eight 	 Forty Two 
+ One 	 Fourteen 	 Eighteen 	 Thirty One 	 Thirty Three 	 Forty Seven 
+ One 	 Fourteen 	 Nineteen 	 Thirty Two 	 Thirty Seven 	 Forty Six 
+ One 	 Fourteen 	 Twenty Two 	 Thirty Six 	 Thirty Eight 	 Forty 
+ One 	 Fourteen 	 Twenty Six 	 Twenty Nine 	 Thirty Eight 	 Forty Six 
+ One 	 Fourteen 	 Twenty Six 	 Thirty Two 	 Thirty Five 	 Thirty Seven 
+ One 	 Fourteen 	 Twenty Six 	 Forty One 	 Forty Nine 	 Fifty Three 
+ One 	 Fifteen 	 Seventeen 	 Twenty Two 	 Forty Two 	 Forty Eight 
+ One 	 Fifteen 	 Twenty One 	 Thirty One 	 Thirty Six 	 Forty Six 
+ One 	 Fifteen 	 Twenty Seven 	 Thirty Eight 	 Thirty Nine 	 Fifty 
+ One 	 Sixteen 	 Nineteen 	 Thirty Nine 	 Forty Two 	 Forty Six 
+ One 	 Sixteen 	 Twenty Five 	 Thirty Four 	 Fifty 	 Fifty Three 
+ One 	 Seventeen 	 Twenty Two 	 Thirty Six 	 Thirty Nine 	 Fifty Two 
+ One 	 Seventeen 	 Twenty Four 	 Twenty Five 	 Twenty Eight 	 Forty Nine 
+ One 	 Eighteen 	 Twenty One 	 Twenty Seven 	 Twenty Nine 	 Thirty One 
+ One 	 Eighteen 	 Twenty Two 	 Thirty One 	 Thirty Five 	 Forty Two 
+ One 	 Eighteen 	 Twenty Five 	 Forty Nine 	 Fifty One 	 Fifty Two 
+ One 	 Nineteen 	 Twenty 	 Twenty Eight 	 Forty One 	 Forty Five 
+ One 	 Nineteen 	 Twenty 	 Thirty One 	 Thirty Five 	 Forty Five 
+ One 	 Nineteen 	 Twenty Four 	 Twenty Nine 	 Thirty Three 	 Thirty Six 
+ One 	 Nineteen 	 Twenty Six 	 Thirty Four 	 Thirty Five 	 Forty One 
+ One 	 Nineteen 	 Twenty Nine 	 Forty Three 	 Forty Six 	 Fifty Three 
+ One 	 Twenty 	 Twenty One 	 Twenty Seven 	 Forty 	 Fifty Three 
+ One 	 Twenty 	 Twenty Two 	 Twenty Four 	 Twenty Eight 	 Forty Two 
+ One 	 Twenty 	 Twenty Three 	 Twenty Seven 	 Thirty Four 	 Fifty Four 
+ One 	 Twenty 	 Twenty Six 	 Forty Five 	 Fifty 	 Fifty One 
+ One 	 Twenty 	 Forty 	 Forty Seven 	 Fifty 	 Fifty Three 
+ One 	 Twenty Two 	 Thirty Three 	 Forty One 	 Forty Nine 	 Fifty 
+ One 	 Twenty Three 	 Twenty Eight 	 Forty Six 	 Fifty One 	 Fifty Four 
+ One 	 Twenty Three 	 Thirty Four 	 Forty One 	 Fifty One 	 Fifty Three 
+ One 	 Twenty Four 	 Twenty Seven 	 Forty One 	 Forty Nine 	 Fifty Three 
+ One 	 Twenty Four 	 Thirty 	 Thirty Eight 	 Forty Five 	 Forty Eight 
+ One 	 Twenty Five 	 Twenty Nine 	 Thirty One 	 Forty 	 Forty Four 
+ One 	 Twenty Five 	 Thirty Five 	 Forty Two 	 Forty Eight 	 Fifty One 
+ One 	 Twenty Six 	 Twenty Seven 	 Twenty Eight 	 Thirty Five 	 Forty Five 
+ One 	 Twenty Six 	 Thirty Four 	 Thirty Seven 	 Forty Four 	 Fifty One 
+ One 	 Twenty Six 	 Thirty Four 	 Thirty Eight 	 Forty Five 	 Forty Nine 
+ One 	 Twenty Seven 	 Thirty Two 	 Thirty Six 	 Forty 	 Forty Nine 
+ One 	 Twenty Seven 	 Thirty Five 	 Forty Two 	 Forty Nine 	 Fifty Three 
+ One 	 Thirty One 	 Thirty Three 	 Forty One 	 Forty Seven 	 Fifty Four 
+ One 	 Thirty Two 	 Thirty Six 	 Thirty Seven 	 Thirty Eight 	 Fifty One 
